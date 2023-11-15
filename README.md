@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Pocket Money](https://github.com/davidwiese/pocket-money)
 
-- 👨‍💻 All of my projects are available at [https://davidwiese.dev/](https://davidwiese.dev/)
+- 👨‍💻 My portfolio can be found at [https://davidwiese.dev/](https://davidwiese.dev/)
 
-- 📫 How to reach me **davidwiese@gmail.com**
+- 📫 You can reach me at **davidwiese@gmail.com**
 
-- ⚡ Fun fact **I'm a mountaineer and wilderness backpacker**
+- ⚡ Fun fact: **I'm a mountaineer and wilderness backpacker** ⛰️🥾⛺
 
 ![](link)&nbsp;&nbsp;&nbsp;&nbsp;
 
