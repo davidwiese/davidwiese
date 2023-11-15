@@ -3,6 +3,8 @@
 
 ![](link)&nbsp;&nbsp;&nbsp;&nbsp;
 
+- 💙 I'm volunteering at [Hack for LA](https://www.hackforla.org/)
+
 - 🔭 I’m currently working on [Pocket Money](https://github.com/davidwiese/pocket-money)
 
 - 👨‍💻 My portfolio can be found at [https://davidwiese.dev/](https://davidwiese.dev/)
