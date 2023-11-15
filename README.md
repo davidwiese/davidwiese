@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋  I'm David Wiese</h1>
-<h3 align="center">A passionate software engineer from Los Angeles</h3>
+<h3 align="center">A software engineer and outdoors enthusiast from Los Angeles</h3>
+
+![image](link)&nbsp;&nbsp;&nbsp;&nbsp;text
 
 - 🔭 I’m currently working on [Pocket Money](https://github.com/davidwiese/pocket-money)
 
