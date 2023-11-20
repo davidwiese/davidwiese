@@ -3,7 +3,7 @@
 
 ![](link)&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 💙 I'm volunteering at [Hack for LA](https://www.hackforla.org/)
+- 💙 I contribute to open-source at [Hack for LA](https://www.hackforla.org/)
 
 - 🔭 I’m currently working on [Pocket Money](https://github.com/davidwiese/pocket-money)
 
