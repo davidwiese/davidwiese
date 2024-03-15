@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on [Trip Report](https://github.com/davidwiese/trip-report)
 
-- 💙 I contribute to open-source at [Hack for LA](https://www.hackforla.org/)
+- 💙 I contribute to open-source at [Hack for LA](https://www.hackforla.org/) / [Expunge Assist](https://expungeassist.org/)
 
 - 👨‍💻 My portfolio can be found at [https://davidwiese.dev/](https://davidwiese.dev/)
 
