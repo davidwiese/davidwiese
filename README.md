@@ -3,9 +3,11 @@
 
 ![](link)&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 💙 I contribute to open-source at [Hack for LA](https://www.hackforla.org/)
+- 💰 I’m the creator of [Pocket Money](https://github.com/davidwiese/pocket-money)
 
-- 🔭 I’m currently working on [Pocket Money](https://github.com/davidwiese/pocket-money)
+- 🔭 I'm currently working on [Trip Report](https://github.com/davidwiese/trip-report)
+
+- 💙 I contribute to open-source at [Hack for LA](https://www.hackforla.org/)
 
 - 👨‍💻 My portfolio can be found at [https://davidwiese.dev/](https://davidwiese.dev/)
 
