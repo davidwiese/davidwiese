@@ -3,9 +3,7 @@
 
 ![](link)&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 💰 I’m the creator of [Pocket Money](https://pocket-money.onrender.com/)
-
-- 🔭 I'm currently working on [Trip Report](https://github.com/davidwiese/trip-report)
+- 🔭 I'm the creator of (and always working on) [Trip Report](https://github.com/davidwiese/trip-report)
 
 - 💙 I contribute to open-source at [Hack for LA](https://www.hackforla.org/) / [Expunge Assist](https://expungeassist.org/)
 
